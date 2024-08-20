@@ -1,0 +1,62 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "balanced-lifeContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Scrapping_TACO",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[food]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[foodGroup]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[foodNutritionInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[nutritionalComposition]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[unitMeasurement]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "balanced-life.balanced-life.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
